@@ -34,7 +34,9 @@ This document presents the evaluation results and performance analysis of the fi
 
 ### Training Monitoring
 
-- **Weights & Biases Dashboard**: [View Training Run](https://wandb.ai/manuelaschrittwieser99-neuralstack-ms/huggingface/runs/6zvb2ezt)
+- **Weights & Biases Dashboard**:
+
+  <img width="1813" height="770" alt="Screenshot 2025-12-04 1 33 31 PM" src="https://github.com/user-attachments/assets/3e9db663-2734-437a-8929-25441c89d43a" />
 
 The training was monitored in real-time using Weights & Biases, providing insights into:
 - Training loss progression
@@ -174,7 +176,7 @@ To further improve evaluation and understanding of model performance, consider:
 ## Resources
 
 - **Model Card**: [Hugging Face Model Card](https://huggingface.co/manuelaschrittwieser/Qwen2.5-1.5B-SQL-Assistant)
-- **Training Dashboard**: [Weights & Biases Run](https://wandb.ai/manuelaschrittwieser99-neuralstack-ms/huggingface/runs/6zvb2ezt)
+- **Training Dashboard**: *see screenshot*
 - **Dataset**: [b-mc2/sql-create-context](https://huggingface.co/datasets/b-mc2/sql-create-context)
 - **Base Model**: [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
 
