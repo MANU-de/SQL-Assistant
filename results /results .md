@@ -176,7 +176,7 @@ To further improve evaluation and understanding of model performance, consider:
 ## Resources
 
 - **Model Card**: [Hugging Face Model Card](https://huggingface.co/manuelaschrittwieser/Qwen2.5-1.5B-SQL-Assistant)
-- **Training Dashboard**: *see screenshot*
+- **Training Dashboard**: *see screenshot (Weights & Biases Dashboard:)*
 - **Dataset**: [b-mc2/sql-create-context](https://huggingface.co/datasets/b-mc2/sql-create-context)
 - **Base Model**: [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
 
